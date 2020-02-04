@@ -120,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "storeExample"
+    }
+  },
+  "defaultProject": "storeExample",
+  "cli": {
+    "defaultCollection": "@ngrx/schematics"
+  }
 }
